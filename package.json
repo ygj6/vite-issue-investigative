@@ -1,0 +1,14 @@
+{
+  "name": "vite-issue-2599",
+  "version": "0.0.1",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+    "vite": "^2.1.5"
+  }
+}
